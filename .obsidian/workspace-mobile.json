@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Deutsch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Deutsch"
             }
           }
         ]
@@ -155,6 +155,6 @@
   },
   "active": "2df34e89eca32e74",
   "lastOpenFiles": [
-    "Test.md"
+    "Deutsch.md"
   ]
 }
