@@ -1,2 +1,3 @@
 - [Absolut MusicXL](https://www.absolutradio.de/musicxl/player#)
+- [egofm](https://player.egofm.de/radioplayer/?stream=egofm)
 - 
