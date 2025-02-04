@@ -1,2 +1,2 @@
-- [Absolut MusicXL](https://absolutradio.de/streams#)
+- [Absolut MusicXL](https://www.absolutradio.de/musicxl/player#)
 - 
