@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:0,98FM Dublin
+https://stream.audioxi.com/98
+#EXTINF:0,Clare FM 95.2
+https://edge.audioxi.com/CLAREFM
+#EXTINF:0,Classic Hits 4FM
+https://edge2.audioxi.com/CLASSIC
+#EXTINF:0,Corks 96 FM
+https://wg.cdn.tibus.net/96fm
+#EXTINF:0,Dundalk FM
+https://securestreams5.autopo.st:1894/mp3/
+#EXTINF:0,East Coast FM 103
+https://edge2.audioxi.com/EASTCOAST
+#EXTINF:0,FM104
+https://gbradio.cdn.tibus.net/fm104MP3128
+#EXTINF:0,Galway Bay FM
+https://wg.cdn.tibus.net/galwaybay.mp3
+#EXTINF:0,Highland Radio
+https://edge.audioxi.com/HIGHLAND
+#EXTINF:0,KCLR 96FM
+https://live-bauerie.sharp-stream.com/KCLRCAR
+#EXTINF:0,Kerry 96-98 FM
+https://edge.audioxi.com/KERRY
+#EXTINF:0,Midlands 103
+https://n02a-eu.rcs.revma.com/tq45ca1vftzuv
+#EXTINF:0,Midwest Radio
+https://edge-audio-01-gos2.sharp-stream.com/midwestfmie2.aac
+#EXTINF:0,NEAR FM 101.6
+https://nearfm-radiohosting.radioca.st/stream.mp3
+#EXTINF:0,Radio Kerry 98.0 FM
+https://edge.audioxi.com/KERRY
+#EXTINF:0,Radio Nova 100.3 FM
+https://edge2.audioxi.com/NOVA
+#EXTINF:0,RadioMoLI
+https://streamer.radio.co/s378b67405/listen
+#EXTINF:0,Red FM 104-106
+https://edge.audioxi.com/RED
+#EXTINF:0,RTE 2FM
+http://icecast1.rte.ie/2fm
+#EXTINF:0,RTE Gold
+http://icecast1.rte.ie/gold
+#EXTINF:0,RTE Radio 1
+http://icecast1.rte.ie/radio1
+#EXTINF:0,Solid Gold Radio Ireland
+https://a1.asurahosting.com:10000/radio.mp3
+#EXTINF:0,Spin 103.8 FM
+https://edge.audioxi.com/SP
+#EXTINF:0,Sunshine 106.8
+https://edge.audioxi.com/SUN
+#EXTINF:0,Tipp FM
+https://live-bauerie.sharp-stream.com/TIPPFM
+#EXTINF:0,Today FM
+https://edge7.audioxi.com/TD
+#EXTINF:0,WLR FM
+https://stream.audioxi.com/WLR
+#EXTINF:0,the sound of ireland
+https://ais-sa2.cdnstream1.com/2548_128.mp3
+#EXTINF:0,Dublin's Q102
+https://wg.cdn.tibus.net/q102MP3128
