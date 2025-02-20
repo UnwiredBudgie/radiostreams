@@ -5,6 +5,6 @@
 
 # Schottland
 ## Highlands
-- Isles FM - Community Radio for the Western Isles
+- [Isles FM - Community Radio for the Western Isles](https://internetradiouk.com/embed/isles-fm/)
 
 [M3U](../)
