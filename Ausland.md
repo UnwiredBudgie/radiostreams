@@ -9,5 +9,6 @@
 - [Nevis Radio](https://www.nevisradio.co.uk/player/index.html)
 - [Radio Skye](https://radioskye.com/popup-player/)
 - [Radio Wester Ross](https://radiowesterross.scot/)
+- [BBC Radio Scotland](https://www.bbc.co.uk/sounds/play/live/bbc_radio_scotland_fm)
 - 
 [M3U](../)
