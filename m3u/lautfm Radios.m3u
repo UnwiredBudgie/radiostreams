@@ -1,0 +1,50 @@
+#EXTM3U
+#EXTINF:0,Radio Haspe
+#EXTVLCOPT:network-caching=1000
+http://radiohaspe.stream.laut.fm/radiohaspe?pl=m3u
+#EXTM3U
+#EXTINF:0,Hasi from Hell
+#EXTVLCOPT:network-caching=1000
+https://stream.laut.fm/hasifromhell.m3u
+#EXTM3U
+#EXTINF:0,Metal Oldies Rock
+#EXTVLCOPT:network-caching=1000
+https://stream.laut.fm/metal-oldies-rock.m3u
+#EXTM3U
+#EXTINF:0,Rock on Bavaria
+#EXTVLCOPT:network-caching=1000
+https://stream.laut.fm/rock-on-bavaria.m3u
+#EXTM3U
+#EXTINF:0,Lagerfeuermetal
+#EXTVLCOPT:network-caching=1000
+https://stream.laut.fm/lagerfeuermetal.m3u
+#EXTINF:0,Deichkind Radio
+#EXTVLCOPT:network-caching=1000
+https://stream.laut.fm/webradio-deichkind.m3u
+#EXTINF:0,Hardrock1
+#EXTVLCOPT:network-caching=1000
+https://stream.laut.fm/hartrock1.m3u
+#EXTINF:0,Sirius 1
+#EXTVLCOPT:network-caching=1000
+https://stream.laut.fm/sirius-one.m3u
+#EXTINF:0,leer
+#EXTVLCOPT:network-caching=1000
+http://
+#EXTINF:0,leer
+#EXTVLCOPT:network-caching=1000
+http://
+#EXTINF:0,leer
+#EXTVLCOPT:network-caching=1000
+http://
+#EXTINF:0,leer
+#EXTVLCOPT:network-caching=1000
+http://
+#EXTINF:0,leer
+#EXTVLCOPT:network-caching=1000
+http://
+#EXTINF:0,leer
+#EXTVLCOPT:network-caching=1000
+http://
+#EXTINF:0,leer
+#EXTVLCOPT:network-caching=1000
+http://
