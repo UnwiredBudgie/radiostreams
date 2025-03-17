@@ -1,5 +1,7 @@
 # Irland
 
+## Landesweit
+- [The Sound of Ireland](https://thesoundofireland.com/player/)
 ## Dublin
 - [Radio Nova](https://play.nova.ie/radio-player/)
 
